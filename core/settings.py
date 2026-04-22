@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'apps/suggestions',
+    'apps/bot_config',
 ]
 
 MIDDLEWARE = [
